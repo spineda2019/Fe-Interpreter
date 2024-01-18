@@ -1,7 +1,7 @@
 # Fe
-I really enjoy learning about compilers and tinkering, so I decided to start a
-side project to build a mini cmpiler in rust (hence the name Fe, referencing
-Iron, since this will run on rust)
+this is a fork of my Fe compiler repo <a href="https://github.com/spineda2019/Fe"></a>.
+The goals of the Fe language is the same, I just also wanted to get into
+building an interpretter!
 
 ## The Formal Grammar
 Check out the <a href="https://github.com/spineda2019/Fe/blob/main/Grammar.md">formal grammer</a>
